@@ -2,7 +2,7 @@
 
 Data for use in apps built by Game Workers Unite.
 
-This data is accessible on the web at `http://gameworkers.github.io/data/[path/in/repo]`.
+This data is accessible on the web at `https://gameworkers.github.io/data/[path/in/repo]`.
 
 For example, you can access a json list of chapter/member location and contact information at http://gameworkers.github.io/data/members.json.
 

@@ -10,4 +10,4 @@ This data on the master branch is used by live apps, so if you want to suggest a
 
 ## contributing
 
-Anyone should feel free to make a pull request to add or update data in this repository. ***Keep in mind before you open your PR to make sure you're logged into the right GitHub account, and that your commits are tagged with that account's email address and username! Any changes you propose make may be visible to current or future employers who use GitHub.***
+Pull requests to add or update data in this repository are welcome! If you're worried about future or current employers seeing your GitHub contribution history, consider creating a separate account to ensure your contributions are anonymous.

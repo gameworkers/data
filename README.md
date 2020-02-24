@@ -14,7 +14,7 @@ Pull requests to add or update data in this repository are welcome! If you're wo
 
 ## normalizing data before merging
 
-Data must be normalized to a specific structure and order before being merged. This makes it easier to review the data and compare it against other alphabetized lists. You can do this by running the following scripts:
+Data must be normalized to a specific structure and order before being merged. This makes it easier to review the data and compare it against other alphabetized lists. You can do this by running the following scripts (running these requires [Node.js](https://nodejs.org/) installed on your system):
 
 * `scripts/check-if-normalized` to see whether the data is normalized (requires the `diff` shell command, which is available on most Unix-based systems, to be available)
 * `scripts/normalize-data` which actually updates the data to be normalized

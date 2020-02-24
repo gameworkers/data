@@ -1,0 +1,54 @@
+#!/usr/bin/env node
+
+const fs = require('fs');
+const child_process = require('child_process');
+const stream = require('stream');
+
+const { normalizeData } = require('./lib/normalizeData');
+
+let allNormalized = true;
+
+checkNext(Object.entries(normalizeData()));
+
+function checkNext(entriesLeft) {
+  if (entriesLeft.length === 0) {
+    if (allNormalized) {
+      console.log('All data is normalized');
+    } else {
+      console.error('Normalize data by running scripts/normalize-data');
+    }
+    process.exit(allNormalized ? 0 : 1);
+  }
+  const [pathname, { content: normalizedContent }] = entriesLeft[0];
+  fs.readFile(pathname, 'utf8', function(err, content) {
+    if (err) {
+      console.error(err);
+      process.exit(1);
+    }
+    if (content === normalizedContent) {
+      console.log(pathname + ' is normalized');
+      checkNext(entriesLeft.slice(1));
+    } else {
+      allNormalized = false;
+      const child = child_process.spawn('diff', [pathname, '-'], {
+        stdio: ['pipe', 1, 2, 'ipc']
+      });
+      child.on('close', function() {
+        console.log(pathname + ' is not normalized');
+        checkNext(entriesLeft.slice(1));
+      });
+      // inspired by https://github.com/feross/string-to-stream
+      (new (class StringStream extends stream.Readable {
+        _read() {
+          if (!this.ended) {
+            process.nextTick(() => {
+              this.push(Buffer.from(normalizedContent, 'utf8'));
+              this.push(null);
+            });
+            this.ended = true;
+          }
+        }
+      })).pipe(child.stdin);
+    }
+  });
+}

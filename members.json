@@ -1,5 +1,27 @@
 [
   {
+    "location": "Alberta",
+    "lat": 53.933271,
+    "lng": -116.576503,
+    "country": "Canada",
+    "isChapter": false,
+    "chapterInfo": {}
+  },
+  {
+    "location": "GWU Argentina",
+    "lat": -38.416097,
+    "lng": -63.616672,
+    "country": "Argentina",
+    "isChapter": true,
+    "chapterInfo": {
+      "description": "The national Argentina chapter of Game Workers Unite.",
+      "applicationLink": "",
+      "twitter": "",
+      "email": "gwuargentina@gmail.com",
+      "website": ""
+    }
+  },
+  {
     "location": "GWU Atlanta",
     "lat": 33.748995,
     "lng": -84.387982,
@@ -70,6 +92,14 @@
     }
   },
   {
+    "location": "Belgium",
+    "lat": 50.503887,
+    "lng": 4.469936,
+    "country": "Belgium",
+    "isChapter": false,
+    "chapterInfo": {}
+  },
+  {
     "location": "GWU Boston",
     "lat": 42.360083,
     "lng": -71.05888,
@@ -96,6 +126,14 @@
       "email": "GWUBrasil@gmail.com",
       "website": ""
     }
+  },
+  {
+    "location": "Bucaramanga",
+    "lat": 7.119349,
+    "lng": -73.122742,
+    "country": "Colombia",
+    "isChapter": false,
+    "chapterInfo": {}
   },
   {
     "location": "GWU Chicago",
@@ -168,18 +206,82 @@
     }
   },
   {
-    "location": "GWU UK",
-    "lat": 53.414323,
-    "lng": -2.294885,
-    "country": "United Kingdom",
+    "location": "Finland",
+    "lat": 61.92411,
+    "lng": 25.748151,
+    "country": "Finland",
+    "isChapter": false,
+    "chapterInfo": {}
+  },
+  {
+    "location": "India",
+    "lat": 20.593684,
+    "lng": 78.96288,
+    "country": "India",
+    "isChapter": false,
+    "chapterInfo": {}
+  },
+  {
+    "location": "Indiana",
+    "lat": 40.267194,
+    "lng": -86.134902,
+    "country": "USA",
+    "isChapter": false,
+    "chapterInfo": {}
+  },
+  {
+    "location": "GWU Ireland",
+    "lat": 53.142367,
+    "lng": -7.692054,
+    "country": "Ireland",
     "isChapter": true,
     "chapterInfo": {
-      "description": "National Game Workers Unite union of the United Kingdom. A branch of <a href=\"https://iwgb.org.uk/\">IWGB</a>.",
-      "applicationLink": "https://iwgb.org.uk/join/gwu",
-      "twitter": "GWU_UK",
-      "email": "contact@gwu-uk.org",
-      "website": "gwu-uk.org"
+      "description": "The national Ireland chapter of Game Workers Unite.",
+      "applicationLink": "",
+      "twitter": "",
+      "email": "",
+      "website": ""
     }
+  },
+  {
+    "location": "Italy",
+    "lat": 41.87194,
+    "lng": 12.56738,
+    "country": "Italy",
+    "isChapter": false,
+    "chapterInfo": {}
+  },
+  {
+    "location": "Japan",
+    "lat": 36.204824,
+    "lng": 138.252924,
+    "country": "Japan",
+    "isChapter": false,
+    "chapterInfo": {}
+  },
+  {
+    "location": "Korea",
+    "lat": 37.663998,
+    "lng": 127.978458,
+    "country": "Korea",
+    "isChapter": false,
+    "chapterInfo": {}
+  },
+  {
+    "location": "Las Vegas",
+    "lat": 36.169941,
+    "lng": -115.13983,
+    "country": "USA",
+    "isChapter": false,
+    "chapterInfo": {}
+  },
+  {
+    "location": "Lewiston, Maine",
+    "lat": 44.100351,
+    "lng": -70.214776,
+    "country": "USA",
+    "isChapter": false,
+    "chapterInfo": {}
   },
   {
     "location": "GWU Los Angeles",
@@ -196,6 +298,36 @@
     }
   },
   {
+    "location": "Madison, Wisconsin",
+    "lat": 43.073052,
+    "lng": -89.40123,
+    "country": "USA",
+    "isChapter": false,
+    "chapterInfo": {}
+  },
+  {
+    "location": "GWU Malaysia",
+    "lat": 4.210484,
+    "lng": 101.975766,
+    "country": "Malaysia",
+    "isChapter": true,
+    "chapterInfo": {
+      "description": "The national Malaysia chapter of Game Workers Unite.",
+      "applicationLink": "",
+      "twitter": "",
+      "email": "",
+      "website": ""
+    }
+  },
+  {
+    "location": "Mexico",
+    "lat": 23.634501,
+    "lng": -102.552784,
+    "country": "Mexico",
+    "isChapter": false,
+    "chapterInfo": {}
+  },
+  {
     "location": "GWU Montréal",
     "lat": 45.501689,
     "lng": -73.567256,
@@ -210,6 +342,14 @@
     }
   },
   {
+    "location": "Nashville",
+    "lat": 36.162664,
+    "lng": -86.781602,
+    "country": "USA",
+    "isChapter": false,
+    "chapterInfo": {}
+  },
+  {
     "location": "GWU New York City",
     "lat": 40.712775,
     "lng": -74.005973,
@@ -222,6 +362,14 @@
       "email": "GWUNewYorkCity@gmail.com",
       "website": ""
     }
+  },
+  {
+    "location": "New Zealand",
+    "lat": -40.900557,
+    "lng": 174.885971,
+    "country": "New Zealand",
+    "isChapter": false,
+    "chapterInfo": {}
   },
   {
     "location": "GWU Orange County",
@@ -262,6 +410,42 @@
       "applicationLink": "https://docs.google.com/forms/d/1uQmzlz7zpJrSExXNumjgi_iadVFC7THcWyxwSQdDF8Q/",
       "twitter": "GWU_Ottawa",
       "email": "GWUOttawa@gmail.com",
+      "website": ""
+    }
+  },
+  {
+    "location": "GWU Poland",
+    "lat": 51.919438,
+    "lng": 19.145136,
+    "country": "Poland",
+    "isChapter": true,
+    "chapterInfo": {
+      "description": "The national Poland chapter of Game Workers Unite.",
+      "applicationLink": "",
+      "twitter": "",
+      "email": "",
+      "website": ""
+    }
+  },
+  {
+    "location": "Prague",
+    "lat": 49.817492,
+    "lng": 15.472962,
+    "country": "Czech Republic",
+    "isChapter": false,
+    "chapterInfo": {}
+  },
+  {
+    "location": "GWU Russia",
+    "lat": 55.755826,
+    "lng": 37.6173,
+    "country": "Russia",
+    "isChapter": true,
+    "chapterInfo": {
+      "description": "The national Russia chapter of Game Workers Unite.",
+      "applicationLink": "",
+      "twitter": "",
+      "email": "",
       "website": ""
     }
   },
@@ -322,6 +506,30 @@
     }
   },
   {
+    "location": "Taipei",
+    "lat": 25.032969,
+    "lng": 121.565418,
+    "country": "Taiwan",
+    "isChapter": false,
+    "chapterInfo": {}
+  },
+  {
+    "location": "Thailand",
+    "lat": 15.870032,
+    "lng": 100.992541,
+    "country": "Thailand",
+    "isChapter": false,
+    "chapterInfo": {}
+  },
+  {
+    "location": "The Netherlands",
+    "lat": 52.132633,
+    "lng": 5.291266,
+    "country": "The Netherlands",
+    "isChapter": false,
+    "chapterInfo": {}
+  },
+  {
     "location": "GWU Toronto",
     "lat": 43.653226,
     "lng": -79.383184,
@@ -350,115 +558,17 @@
     }
   },
   {
-    "location": "GWU Vancouver",
-    "lat": 49.282729,
-    "lng": -123.120738,
-    "country": "Canada",
+    "location": "GWU UK",
+    "lat": 53.414323,
+    "lng": -2.294885,
+    "country": "United Kingdom",
     "isChapter": true,
     "chapterInfo": {
-      "description": "The local Vancouver, Canada chapter of Game Workers Unite.",
-      "applicationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdCixTyvEsGcr3FNjK-1ZcNmm7O54Tw0-lOo9s_lC5m00-6bQ/viewform",
-      "twitter": "GWU_Vancouver",
-      "email": "GWUVancouver@gmail.com",
-      "website": ""
-    }
-  },
-  {
-    "location": "Italy",
-    "lat": 41.87194,
-    "lng": 12.56738,
-    "country": "Italy",
-    "isChapter": false
-  },
-  {
-    "location": "Nashville",
-    "lat": 36.162664,
-    "lng": -86.781602,
-    "country": "USA",
-    "isChapter": false
-  },
-  {
-    "location": "GWU Russia",
-    "lat": 55.755826,
-    "lng": 37.6173,
-    "country": "Russia",
-    "isChapter": true,
-    "chapterInfo": {
-      "description": "The national Russia chapter of Game Workers Unite.",
-      "applicationLink": "",
-      "twitter": "",
-      "email": "",
-      "website": ""
-    }
-  },
-  {
-    "location": "Taipei",
-    "lat": 25.032969,
-    "lng": 121.565418,
-    "country": "Taiwan",
-    "isChapter": false
-  },
-  {
-    "location": "Mexico",
-    "lat": 23.634501,
-    "lng": -102.552784,
-    "country": "Mexico",
-    "isChapter": false
-  },
-  {
-    "location": "Prague",
-    "lat": 49.817492,
-    "lng": 15.472962,
-    "country": "Czech Republic",
-    "isChapter": false
-  },
-  {
-    "location": "Indiana",
-    "lat": 40.267194,
-    "lng": -86.134902,
-    "country": "USA",
-    "isChapter": false
-  },
-  {
-    "location": "Utah",
-    "lat": 39.32098,
-    "lng": -111.093731,
-    "country": "USA",
-    "isChapter": false
-  },
-  {
-    "location": "Bucaramanga",
-    "lat": 7.119349,
-    "lng": -73.122742,
-    "country": "Colombia",
-    "isChapter": false
-  },
-  {
-    "location": "Lewiston, Maine",
-    "lat": 44.100351,
-    "lng": -70.214776,
-    "country": "USA",
-    "isChapter": false
-  },
-  {
-    "location": "Madison, Wisconsin",
-    "lat": 43.073052,
-    "lng": -89.40123,
-    "country": "USA",
-    "isChapter": false
-  },
-  {
-    "location": "GWU Poland",
-    "lat": 51.919438,
-    "lng": 19.145136,
-    "country": "Poland",
-    "isChapter": true,
-    "chapterInfo": {
-      "description": "The national Poland chapter of Game Workers Unite.",
-      "applicationLink": "",
-      "twitter": "",
-      "email": "",
-      "website": ""
+      "description": "National Game Workers Unite union of the United Kingdom. A branch of <a href=\"https://iwgb.org.uk/\">IWGB</a>.",
+      "applicationLink": "https://iwgb.org.uk/join/gwu",
+      "twitter": "GWU_UK",
+      "email": "contact@gwu-uk.org",
+      "website": "gwu-uk.org"
     }
   },
   {
@@ -476,72 +586,24 @@
     }
   },
   {
-    "location": "Las Vegas",
-    "lat": 36.169941,
-    "lng": -115.13983,
+    "location": "Utah",
+    "lat": 39.32098,
+    "lng": -111.093731,
     "country": "USA",
-    "isChapter": false
+    "isChapter": false,
+    "chapterInfo": {}
   },
   {
-    "location": "GWU Ireland",
-    "lat": 53.142367,
-    "lng": -7.692054,
-    "country": "Ireland",
-    "isChapter": true,
-    "chapterInfo": {
-      "description": "The national Ireland chapter of Game Workers Unite.",
-      "applicationLink": "",
-      "twitter": "",
-      "email": "",
-      "website": ""
-    }
-  },
-  {
-    "location": "Alberta",
-    "lat": 53.933271,
-    "lng": -116.576503,
+    "location": "GWU Vancouver",
+    "lat": 49.282729,
+    "lng": -123.120738,
     "country": "Canada",
-    "isChapter": false
-  },
-  {
-    "location": "Thailand",
-    "lat": 15.870032,
-    "lng": 100.992541,
-    "country": "Thailand",
-    "isChapter": false
-  },
-  {
-    "location": "India",
-    "lat": 20.593684,
-    "lng": 78.96288,
-    "country": "India",
-    "isChapter": false
-  },
-  {
-    "location": "Japan",
-    "lat": 36.204824,
-    "lng": 138.252924,
-    "country": "Japan",
-    "isChapter": false
-  },
-  {
-    "location": "Korea",
-    "lat": 37.663998,
-    "lng": 127.978458,
-    "country": "Korea",
-    "isChapter": false
-  },
-  {
-    "location": "GWU Malaysia",
-    "lat": 4.210484,
-    "lng": 101.975766,
-    "country": "Malaysia",
     "isChapter": true,
     "chapterInfo": {
-      "description": "The national Malaysia chapter of Game Workers Unite.",
-      "applicationLink": "",
-      "twitter": "",
-      "email": "",
+      "description": "The local Vancouver, Canada chapter of Game Workers Unite.",
+      "applicationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdCixTyvEsGcr3FNjK-1ZcNmm7O54Tw0-lOo9s_lC5m00-6bQ/viewform",
+      "twitter": "GWU_Vancouver",
+      "email": "GWUVancouver@gmail.com",
       "website": ""
     }
   },
@@ -550,48 +612,7 @@
     "lat": 14.058324,
     "lng": 108.277199,
     "country": "Vietnam",
-    "isChapter": false
-  },
-  {
-    "location": "The Netherlands",
-    "lat": 52.132633,
-    "lng": 5.291266,
-    "country": "The Netherlands",
-    "isChapter": false
-  },
-  {
-    "location": "Belgium",
-    "lat": 50.503887,
-    "lng": 4.469936,
-    "country": "Belgium",
-    "isChapter": false
-  },
-  {
-    "location": "Finland",
-    "lat": 61.92411,
-    "lng": 25.748151,
-    "country": "Finland",
-    "isChapter": false
-  },
-  {
-    "location": "GWU Argentina",
-    "lat": -38.416097,
-    "lng": -63.616672,
-    "country": "Argentina",
-    "isChapter": true,
-    "chapterInfo": {
-      "description": "The national Argentina chapter of Game Workers Unite.",
-      "applicationLink": "",
-      "twitter": "",
-      "email": "gwuargentina@gmail.com",
-      "website": ""
-    }
-  },
-  {
-    "location": "New Zealand",
-    "lat": -40.900557,
-    "lng": 174.885971,
-    "country": "New Zealand",
-    "isChapter": false
+    "isChapter": false,
+    "chapterInfo": {}
   }
 ]

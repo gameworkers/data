@@ -1,0 +1,16 @@
+#!/usr/bin/env node
+
+const fs = require('fs');
+
+const { normalizeData } = require('./lib/normalizeData');
+
+for (const [pathname, { content, warnings }] of Object.entries(normalizeData())) {
+  for (const warning of warnings) {
+    console.warn(warning);
+  }
+  fs.writeFile(pathname, content, function(err) {
+    if (err) {
+      console.error(err);
+    }
+  });
+}

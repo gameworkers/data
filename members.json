@@ -206,6 +206,20 @@
     }
   },
   {
+    "location": "GWU España",
+    "lat": 40.463667,
+    "lng": -3.74922,
+    "country": "Spain",
+    "isChapter": true,
+    "chapterInfo": {
+      "description": "The national España chapter of Game Workers Unite.",
+      "applicationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdP1wlXsu39sfvoBAgvaLO3nLSEAhFXERnJHqK7dl3ok6GMrA/viewform",
+      "twitter": "GWU_Spain",
+      "email": "contact@gwuspain.org",
+      "website": "gwuspain.org"
+    }
+  },
+  {
     "location": "Finland",
     "lat": 61.92411,
     "lng": 25.748151,
@@ -248,8 +262,14 @@
     "lat": 41.87194,
     "lng": 12.56738,
     "country": "Italy",
-    "isChapter": false,
-    "chapterInfo": {}
+    "isChapter": true,
+    "chapterInfo": {
+      "description": "The national Italy chapter of Game Workers Unite.",
+      "applicationLink": "https://drive.google.com/open?id=1X4lUBeP-qLDWaSerNA5-M3CUKB1y0kaKaxwr-1gZW6M",
+      "twitter": "GWU_Italy",
+      "email": "gwuitaly@gmail.com",
+      "website": ""
+    }
   },
   {
     "location": "Japan",
@@ -302,22 +322,22 @@
     "lat": 43.073052,
     "lng": -89.40123,
     "country": "USA",
-    "isChapter": false,
-    "chapterInfo": {}
+    "isChapter": true,
+    "chapterInfo": {
+      "description": "The local Madison, WI, USA chapter of Game Workers Unite.",
+      "applicationLink": "",
+      "twitter": "",
+      "email": "gwumadison@gmail.com",
+      "website": ""
+    }
   },
   {
     "location": "GWU Malaysia",
     "lat": 4.210484,
     "lng": 101.975766,
     "country": "Malaysia",
-    "isChapter": true,
-    "chapterInfo": {
-      "description": "The national Malaysia chapter of Game Workers Unite.",
-      "applicationLink": "",
-      "twitter": "",
-      "email": "",
-      "website": ""
-    }
+    "isChapter": false,
+    "chapterInfo": {}
   },
   {
     "location": "Mexico",
@@ -428,6 +448,20 @@
     }
   },
   {
+    "location": "GWU Portland",
+    "lat": 45.523064,
+    "lng": -122.676483,
+    "country": "Poland",
+    "isChapter": true,
+    "chapterInfo": {
+      "description": "The local Portland, OR, USA chapter of Game Workers Unite.",
+      "applicationLink": "",
+      "twitter": "",
+      "email": "gwuportland@gmail.com",
+      "website": ""
+    }
+  },
+  {
     "location": "Prague",
     "lat": 49.817492,
     "lng": 15.472962,
@@ -440,14 +474,8 @@
     "lat": 55.755826,
     "lng": 37.6173,
     "country": "Russia",
-    "isChapter": true,
-    "chapterInfo": {
-      "description": "The national Russia chapter of Game Workers Unite.",
-      "applicationLink": "",
-      "twitter": "",
-      "email": "",
-      "website": ""
-    }
+    "isChapter": false,
+    "chapterInfo": {}
   },
   {
     "location": "STJV",
@@ -475,20 +503,6 @@
       "twitter": "GWU_Seattle",
       "email": "GWUSeattle@gmail.com",
       "website": "gameworkersseattle.wordpress.com"
-    }
-  },
-  {
-    "location": "GWU Spain",
-    "lat": 40.463667,
-    "lng": -3.74922,
-    "country": "Spain",
-    "isChapter": true,
-    "chapterInfo": {
-      "description": "The national España chapter of Game Workers Unite.",
-      "applicationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdP1wlXsu39sfvoBAgvaLO3nLSEAhFXERnJHqK7dl3ok6GMrA/viewform",
-      "twitter": "GWU_Spain",
-      "email": "contact@gwuspain.org",
-      "website": "gwuspain.org"
     }
   },
   {

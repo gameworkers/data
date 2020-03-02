@@ -33,6 +33,7 @@ const transforms = {
           lng,
           country,
           isChapter,
+          isUnion,
           chapterInfo: {
             description,
             applicationLink,
@@ -55,7 +56,8 @@ const transforms = {
           { name: 'lng', isInvalid: val => typeof val !== 'number' },
           { name: 'country', isInvalid: val => !val },
           { name: 'isChapter', isInvalid: val => typeof val !== 'boolean' },
-          { name: 'chapterInfo', isInvalid: val => isChapter && typeof val !== 'object' }
+          { name: 'isUnion', isInvalid: val => typeof val !== 'boolean' },
+          { name: 'chapterInfo', isInvalid: val => (isChapter || isUnion) && typeof val !== 'object' }
         ]) {
           if (isInvalid(member[name])) {
             throw new Error(
@@ -72,7 +74,7 @@ const transforms = {
           'email',
           'website'
         ]) {
-          if (isChapter) {
+          if (isChapter || isUnion) {
             if (!member.chapterInfo[infoPropertyName]) {
               warnings.push(
                 `WARNING: missing chapter info "${infoPropertyName}" for location "${location}"`
@@ -103,6 +105,7 @@ const transforms = {
           lng,
           country,
           isChapter,
+          isUnion,
           chapterInfo: {
             description,
             applicationLink,

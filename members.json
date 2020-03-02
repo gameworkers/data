@@ -5,6 +5,7 @@
     "lng": -116.576503,
     "country": "Canada",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -13,6 +14,7 @@
     "lng": -63.616672,
     "country": "Argentina",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The national Argentina chapter of Game Workers Unite.",
       "applicationLink": "",
@@ -27,6 +29,7 @@
     "lng": -84.387982,
     "country": "USA",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The local Atlanta, GA, USA chapter of Game Workers Unite.",
       "applicationLink": "",
@@ -41,6 +44,7 @@
     "lng": -97.743061,
     "country": "USA",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The local Austin, TX, USA chapter of Game Workers Unite.",
       "applicationLink": "https://docs.google.com/forms/d/e/1FAIpQLSe6NQFsIcWVVBdA2vvMJbs5tnLNCEIsw6Yyin9b4p3zYqNVjQ/viewform",
@@ -55,6 +59,7 @@
     "lng": 133.775136,
     "country": "Australia",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The national Australia chapter of Game Workers Unite.",
       "applicationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdKRJv8DKsOT92V4r2mzWHVaYfwHrG405hea8UV9tZTgW36Ig/viewform",
@@ -64,11 +69,27 @@
     }
   },
   {
+    "location": "BECTU Scotland",
+    "lat": 55.86515,
+    "lng": -4.25763,
+    "country": "Scotland",
+    "isChapter": false,
+    "isUnion": true,
+    "chapterInfo": {
+      "description": "Games industry union in Scotland, a branch of <a href=\"https://bectu.org.uk/\">BECTU</a>.",
+      "applicationLink": "https://bectu.org.uk/join/",
+      "twitter": "",
+      "email": "info@bectu.org.uk",
+      "website": "bectu.org.uk/get-involved/games-workers-branch/"
+    }
+  },
+  {
     "location": "GWU Baltimore",
     "lat": 39.290385,
     "lng": -76.612189,
     "country": "USA",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The local Baltimore, MD, USA chapter of Game Workers Unite.",
       "applicationLink": "https://docs.google.com/forms/d/e/1FAIpQLScAv2ykDUnBzYZ8N5vtw_lAcv7HargbqIkjKvdCIL7Ydqvx6g/viewform",
@@ -83,6 +104,7 @@
     "lng": -122.291308,
     "country": "USA",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The local Bay Area, CA, USA chapter of Game Workers Unite.",
       "applicationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdVe5gWVEqXoh2Y3tdJiDvBz4cvNWgKjBZ_MUYjoFYuukuldw/viewform",
@@ -97,6 +119,7 @@
     "lng": 4.469936,
     "country": "Belgium",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -105,6 +128,7 @@
     "lng": -71.05888,
     "country": "USA",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The Boston, MA, USA chapter of Game Workers Unite.",
       "applicationLink": "https://goo.gl/forms/U2Xy1uDtfvw73BgA3",
@@ -119,6 +143,7 @@
     "lng": -51.92528,
     "country": "Brazil",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The national Brasil chapter of Game Workers Unite.",
       "applicationLink": "https://docs.google.com/forms/d/e/1FAIpQLSc5Q7r3_yr5fJL3IW5fzh5PwYe4L2K55aP3-rkngZBQn_5fXQ/viewform",
@@ -133,6 +158,7 @@
     "lng": -73.122742,
     "country": "Colombia",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -141,6 +167,7 @@
     "lng": -87.629798,
     "country": "USA",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The local Chicago, IL, USA chapter of Game Workers Unite.",
       "applicationLink": "https://docs.google.com/forms/d/e/1FAIpQLScJJF2zi6DRDl1f4FELY0GNLx7_8NFt_W-j9QfSaOO30EDf9w/viewform",
@@ -155,6 +182,7 @@
     "lng": -77.036871,
     "country": "USA",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The local Washington D.C. chapter of Game Workers Unite.",
       "applicationLink": "https://docs.google.com/forms/d/1JiVog4u6VA-WoS4JdtGtPfs0qFHBYaSWapEIF7DK5y8/edit",
@@ -169,6 +197,7 @@
     "lng": -96.796988,
     "country": "USA",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The local Dallas, TX, USA chapter of Game Workers Unite.",
       "applicationLink": "https://goo.gl/forms/RBFvHJZrjtduTfmq2",
@@ -183,6 +212,7 @@
     "lng": -83.045754,
     "country": "USA",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The local Detroit, MI, USA chapter of Game Workers Unite.",
       "applicationLink": "https://docs.google.com/forms/d/1HeaQMUpokdK4Em9bdYDc13emz-sLRV4LWy8F8EdSyGU/edit",
@@ -197,6 +227,7 @@
     "lng": 10.451526,
     "country": "Germany",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The national Deutschland chapter of Game Workers Unite.",
       "applicationLink": "https://goo.gl/forms/53CgNOT2jrSVwoHq1",
@@ -206,12 +237,19 @@
     }
   },
   {
-    "location": "Finland",
+    "location": "Game Makers Finland",
     "lat": 61.92411,
     "lng": 25.748151,
     "country": "Finland",
     "isChapter": false,
-    "chapterInfo": {}
+    "isUnion": true,
+    "chapterInfo": {
+      "description": "A games industry union in Finland, a member of Assocation of IT sector employees (<a href=\"https://tietoala.fi/\">Tietoala</a>).",
+      "applicationLink": "https://link.webropolsurveys.com/Participation/Public/7c151237-8c21-4db1-86b2-248cbcf714ac?displayId=Fin1505385",
+      "twitter": "gamemakersfin",
+      "email": "",
+      "website": "peliala.fi/en/"
+    }
   },
   {
     "location": "India",
@@ -219,6 +257,7 @@
     "lng": 78.96288,
     "country": "India",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -227,6 +266,7 @@
     "lng": -86.134902,
     "country": "USA",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -235,12 +275,13 @@
     "lng": -7.692054,
     "country": "Ireland",
     "isChapter": true,
+    "isUnion": true,
     "chapterInfo": {
-      "description": "The national Ireland chapter of Game Workers Unite.",
-      "applicationLink": "",
-      "twitter": "",
-      "email": "",
-      "website": ""
+      "description": "The national Game Workers Unite union in Ireland, a branch of <a href=\"https://www.fsunion.org/\">Financial Services Union</a>.",
+      "applicationLink": "https://www.fsunion.org/join/GWUIreland",
+      "twitter": "gwu_ireland",
+      "email": "gwuireland@fsunion.org",
+      "website": "gwuireland.org/"
     }
   },
   {
@@ -249,6 +290,7 @@
     "lng": 12.56738,
     "country": "Italy",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -257,6 +299,7 @@
     "lng": 138.252924,
     "country": "Japan",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -265,6 +308,7 @@
     "lng": 127.978458,
     "country": "Korea",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -273,6 +317,7 @@
     "lng": -115.13983,
     "country": "USA",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -281,6 +326,7 @@
     "lng": -70.214776,
     "country": "USA",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -289,6 +335,7 @@
     "lng": -118.243685,
     "country": "USA",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The local Los Angeles, CA, USA chapter of Game Workers Unite.",
       "applicationLink": "https://docs.google.com/forms/d/e/1FAIpQLScggE2ibjn2t9_1VcNT2r4yitlasP_XMsEJu_pmZ99zDZbx1w/viewform",
@@ -303,6 +350,7 @@
     "lng": -89.40123,
     "country": "USA",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -311,6 +359,7 @@
     "lng": 101.975766,
     "country": "Malaysia",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The national Malaysia chapter of Game Workers Unite.",
       "applicationLink": "",
@@ -325,6 +374,7 @@
     "lng": -102.552784,
     "country": "Mexico",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -333,6 +383,7 @@
     "lng": -73.567256,
     "country": "Canada",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The local Montréal, Canada chapter of Game Workers Unite.",
       "applicationLink": "https://docs.google.com/forms/d/e/1FAIpQLSc59I5tMp8fJQJMUDsWoYfdCvLN95nLVIkOg5mKJlaa98vsOw/viewform",
@@ -347,6 +398,7 @@
     "lng": -86.781602,
     "country": "USA",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -355,6 +407,7 @@
     "lng": -74.005973,
     "country": "USA",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The local NYC, NY, USA chapter of Game Workers Unite.",
       "applicationLink": "https://docs.google.com/forms/d/1dAqrFD9b9chl5AYWWScboCQUe08Z8_0nR7JzsgUYZFM/edit",
@@ -369,6 +422,7 @@
     "lng": 174.885971,
     "country": "New Zealand",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -377,6 +431,7 @@
     "lng": -117.831143,
     "country": "USA",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The local Orange Country, CA, USA chapter of Game Workers Unite.",
       "applicationLink": "",
@@ -391,6 +446,7 @@
     "lng": -81.379236,
     "country": "USA",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The local Orlando, FL, USA chapter of Game Workers Unite.",
       "applicationLink": "https://goo.gl/forms/ElyN68EiHMLnkovs1",
@@ -405,6 +461,7 @@
     "lng": -75.697193,
     "country": "Canada",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The local Ottawa, Canada chapter of Game Workers Unite.",
       "applicationLink": "https://docs.google.com/forms/d/1uQmzlz7zpJrSExXNumjgi_iadVFC7THcWyxwSQdDF8Q/",
@@ -419,6 +476,7 @@
     "lng": 19.145136,
     "country": "Poland",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The national Poland chapter of Game Workers Unite.",
       "applicationLink": "",
@@ -433,6 +491,7 @@
     "lng": 15.472962,
     "country": "Czech Republic",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -441,6 +500,7 @@
     "lng": 37.6173,
     "country": "Russia",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The national Russia chapter of Game Workers Unite.",
       "applicationLink": "",
@@ -454,9 +514,10 @@
     "lat": 46.227638,
     "lng": 2.213749,
     "country": "France",
-    "isChapter": true,
+    "isChapter": false,
+    "isUnion": true,
     "chapterInfo": {
-      "description": "The video game workers' union in France.",
+      "description": "A video game workers' union in France.",
       "applicationLink": "https://www.stjv.fr/en/membership/",
       "twitter": "STJV_fr",
       "email": "Contact@STJV.fr",
@@ -469,6 +530,7 @@
     "lng": -122.332071,
     "country": "USA",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The local Seattle, WA, USA chapter of Game Workers Unite.",
       "applicationLink": "https://goo.gl/forms/QJiBTURiU0wFNxD93",
@@ -478,11 +540,27 @@
     }
   },
   {
+    "location": "Solidaires Informatique",
+    "lat": 48.8534,
+    "lng": 2.3488,
+    "country": "France",
+    "isChapter": false,
+    "isUnion": true,
+    "chapterInfo": {
+      "description": "Games industry union in Scotland, a branch of <a href=\"https://bectu.org.uk/\">BECTU</a>.",
+      "applicationLink": "https://solidairesinformatique.org/wp-content/uploads/2019/12/Bulletin_Adh%C3%A9sion_Solidaires_Informatique.pdf",
+      "twitter": "",
+      "email": "contact@solidairesinformatique.org",
+      "website": "solidairesinformatique.org/"
+    }
+  },
+  {
     "location": "GWU Spain",
     "lat": 40.463667,
     "lng": -3.74922,
     "country": "Spain",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The national España chapter of Game Workers Unite.",
       "applicationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdP1wlXsu39sfvoBAgvaLO3nLSEAhFXERnJHqK7dl3ok6GMrA/viewform",
@@ -497,6 +575,7 @@
     "lng": 15.457691,
     "country": "Sweden",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The national Sweden chapter of Game Workers Unite.",
       "applicationLink": "https://docs.google.com/forms/d/e/1FAIpQLSccI5tefFOo9cr5xAboUr_Hr4Wdk3gM4o__MrNTekXe7Ey3ig/viewform?usp=sf_link",
@@ -511,6 +590,7 @@
     "lng": 121.565418,
     "country": "Taiwan",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -519,6 +599,7 @@
     "lng": 100.992541,
     "country": "Thailand",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -527,6 +608,7 @@
     "lng": 5.291266,
     "country": "The Netherlands",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -535,6 +617,7 @@
     "lng": -79.383184,
     "country": "Canada",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The local Toronto, ON, Canada chapter of Game Workers Unite.",
       "applicationLink": "https://docs.google.com/forms/d/e/1FAIpQLSfLTkYiir3BU2DFgJm8PXvSBmJCxoslso-iKEhgnYTWb9MEmg/viewform",
@@ -549,6 +632,7 @@
     "lng": -78.86364,
     "country": "USA",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The local Triangle Region, NC, USA chapter of Game Workers Unite.",
       "applicationLink": "https://goo.gl/forms/1FUQONVZ092tMnx23",
@@ -563,6 +647,7 @@
     "lng": -2.294885,
     "country": "United Kingdom",
     "isChapter": true,
+    "isUnion": true,
     "chapterInfo": {
       "description": "National Game Workers Unite union of the United Kingdom. A branch of <a href=\"https://iwgb.org.uk/\">IWGB</a>.",
       "applicationLink": "https://iwgb.org.uk/join/gwu",
@@ -577,6 +662,7 @@
     "lng": 31.16558,
     "country": "Ukraine",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The national Ukraine chapter of Game Workers Unite.",
       "applicationLink": "",
@@ -591,6 +677,7 @@
     "lng": -111.093731,
     "country": "USA",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   },
   {
@@ -599,6 +686,7 @@
     "lng": -123.120738,
     "country": "Canada",
     "isChapter": true,
+    "isUnion": false,
     "chapterInfo": {
       "description": "The local Vancouver, Canada chapter of Game Workers Unite.",
       "applicationLink": "https://docs.google.com/forms/d/e/1FAIpQLSdCixTyvEsGcr3FNjK-1ZcNmm7O54Tw0-lOo9s_lC5m00-6bQ/viewform",
@@ -613,6 +701,7 @@
     "lng": 108.277199,
     "country": "Vietnam",
     "isChapter": false,
+    "isUnion": false,
     "chapterInfo": {}
   }
 ]
